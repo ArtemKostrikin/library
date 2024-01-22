@@ -1,0 +1,16 @@
+{
+  "name": "my-library",
+  "version": "1.0.0",
+  "description": "Моя собственная библиотека",
+  "main": "math.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArtemKostrikin/library"
+  },
+  "author": "Ваше имя",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": []
+}
